@@ -1,6 +1,7 @@
 # LRU-cache
 
 Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
+# functions
 LRUCache(int capacity) Initialize the LRU cache with positive size capacity.
 
 int get(int key) Return the value of the key if the key exists, otherwise return -1.
